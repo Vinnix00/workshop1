@@ -1,0 +1,11 @@
+﻿  StudentManager.cpp
+  main.cpp
+C:\Users\Asus\source\repos\db_wems\db_wems\main.cpp(983,7): warning C4102: 'CHOICE': unreferenced label
+C:\Users\Asus\source\repos\db_wems\db_wems\main.cpp(1033,8): warning C4102: 'CHOICE': unreferenced label
+C:\Users\Asus\source\repos\db_wems\db_wems\main.cpp(1113,8): warning C4102: 'CHOICE': unreferenced label
+  Generating code
+  0 of 253 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    43 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  db_wems.vcxproj -> C:\Users\Asus\source\repos\db_wems\x64\Release\db_wems.exe
